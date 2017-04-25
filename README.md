@@ -11,4 +11,4 @@ Meanwhile, a simpler bubble plot (bottom) stays true to the data
 
 ![GitHub Logo](https://cloud.githubusercontent.com/assets/16660416/25396752/a03f8854-299a-11e7-88df-9c5e0e09f3c8.png)
 
-Wish I took better screenshots before my 14 days Tableau Desktop trial expired.
+Wish I took better screenshots (with "simpler bubble plot" being visible!) before my 14 days Tableau Desktop trial expired.
