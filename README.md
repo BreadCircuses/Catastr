@@ -5,7 +5,7 @@ This project demonstrates how 3-dimentional bubble charts can misrepresent the d
 
 The image on the left creates an illusion that grey disks comprise about 40% of all items.
 The image on the right makes it seem more like 80%.
-None of that is true. 
+None of that is correct. 
 
 Meanwhile, a simpler bubble plot (bottom) stays true to the data
 
